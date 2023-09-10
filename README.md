@@ -28,22 +28,6 @@ I belive in collaboration over competition 🤝.
 
 
 
-
-
-## <🔩 ToolBox> 
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="CNCF" src="https://img.shields.io/badge/CNCF%20-%23430098.svg?logo=CNCF&logoColor=white"></a>
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
- <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
-<img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
-![Agile&Scrum](https://img.shields.io/badge/-Agile%20%26%20Scrum-orange)
-
-
-
-
 <h1 align="center"> 🔥 Contributions: </h1>
 
 	
