@@ -20,7 +20,8 @@
 <h1 align="center"> Hi, I am Aakriti! Great to see you here! :wave: </h1>
 
 
-I am a third year undergrad student majoring in computer science from India. I am a **Flutter Developer**.
+I am a third year undergrad student majoring in computer science from India. I like building cool stuff and solving real world problems.
+I also consistent on various coding platforms.
 I am always open to collaborating on projects and innovative/disruptive ideas. 
 I belive in collaboration over competition 🤝.
 
